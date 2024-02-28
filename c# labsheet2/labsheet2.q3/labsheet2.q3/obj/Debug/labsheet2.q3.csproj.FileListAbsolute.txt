@@ -1,0 +1,2 @@
+D:\1yr 3sem\c# labsheet2\labsheet2.q3\labsheet2.q3\obj\Debug\labsheet2.q3.csproj.AssemblyReference.cache
+D:\1yr 3sem\c# labsheet2\labsheet2.q3\labsheet2.q3\obj\Debug\labsheet2.q3.csproj.CoreCompileInputs.cache
