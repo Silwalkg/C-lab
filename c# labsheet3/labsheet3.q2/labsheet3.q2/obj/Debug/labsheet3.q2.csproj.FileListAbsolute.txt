@@ -1,0 +1,7 @@
+D:\1yr 3sem\c# labsheet3\labsheet3.q2\labsheet3.q2\bin\Debug\labsheet3.q2.exe.config
+D:\1yr 3sem\c# labsheet3\labsheet3.q2\labsheet3.q2\bin\Debug\labsheet3.q2.exe
+D:\1yr 3sem\c# labsheet3\labsheet3.q2\labsheet3.q2\bin\Debug\labsheet3.q2.pdb
+D:\1yr 3sem\c# labsheet3\labsheet3.q2\labsheet3.q2\obj\Debug\labsheet3.q2.csproj.AssemblyReference.cache
+D:\1yr 3sem\c# labsheet3\labsheet3.q2\labsheet3.q2\obj\Debug\labsheet3.q2.csproj.CoreCompileInputs.cache
+D:\1yr 3sem\c# labsheet3\labsheet3.q2\labsheet3.q2\obj\Debug\labsheet3.q2.exe
+D:\1yr 3sem\c# labsheet3\labsheet3.q2\labsheet3.q2\obj\Debug\labsheet3.q2.pdb
