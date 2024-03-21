@@ -1,0 +1,11 @@
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\obj\Debug\labsheet5.partB.csproj.AssemblyReference.cache
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\obj\Debug\labsheet5.partB.Form1.resources
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\obj\Debug\labsheet5.partB.Properties.Resources.resources
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\obj\Debug\labsheet5.partB.csproj.GenerateResource.cache
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\obj\Debug\labsheet5.partB.csproj.CoreCompileInputs.cache
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\bin\Debug\labsheet5.partB.exe.config
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\bin\Debug\labsheet5.partB.exe
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\bin\Debug\labsheet5.partB.pdb
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\obj\Debug\labsheet5.partB.exe
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\obj\Debug\labsheet5.partB.pdb
+D:\1yr 3sem\C# lab\labsheet5.partB\labsheet5.partB\obj\Debug\labsheet5.partB.Form2.resources
