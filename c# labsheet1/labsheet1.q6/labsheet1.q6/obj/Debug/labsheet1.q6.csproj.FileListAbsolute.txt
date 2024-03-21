@@ -1,0 +1,7 @@
+D:\c# labsheet1\labsheet1.q6\labsheet1.q6\bin\Debug\labsheet1.q6.exe.config
+D:\c# labsheet1\labsheet1.q6\labsheet1.q6\bin\Debug\labsheet1.q6.exe
+D:\c# labsheet1\labsheet1.q6\labsheet1.q6\bin\Debug\labsheet1.q6.pdb
+D:\c# labsheet1\labsheet1.q6\labsheet1.q6\obj\Debug\labsheet1.q6.csproj.AssemblyReference.cache
+D:\c# labsheet1\labsheet1.q6\labsheet1.q6\obj\Debug\labsheet1.q6.csproj.CoreCompileInputs.cache
+D:\c# labsheet1\labsheet1.q6\labsheet1.q6\obj\Debug\labsheet1.q6.exe
+D:\c# labsheet1\labsheet1.q6\labsheet1.q6\obj\Debug\labsheet1.q6.pdb

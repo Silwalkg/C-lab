@@ -1,0 +1,14 @@
+D:\labsheet1.q4\labsheet1.q4\bin\Debug\labsheet1.q4.exe.config
+D:\labsheet1.q4\labsheet1.q4\bin\Debug\labsheet1.q4.exe
+D:\labsheet1.q4\labsheet1.q4\bin\Debug\labsheet1.q4.pdb
+D:\labsheet1.q4\labsheet1.q4\obj\Debug\labsheet1.q4.csproj.AssemblyReference.cache
+D:\labsheet1.q4\labsheet1.q4\obj\Debug\labsheet1.q4.csproj.CoreCompileInputs.cache
+D:\labsheet1.q4\labsheet1.q4\obj\Debug\labsheet1.q4.exe
+D:\labsheet1.q4\labsheet1.q4\obj\Debug\labsheet1.q4.pdb
+D:\1yr 3sem\c# labsheet1\labsheet1.q4\labsheet1.q4\bin\Debug\labsheet1.q4.exe.config
+D:\1yr 3sem\c# labsheet1\labsheet1.q4\labsheet1.q4\bin\Debug\labsheet1.q4.exe
+D:\1yr 3sem\c# labsheet1\labsheet1.q4\labsheet1.q4\bin\Debug\labsheet1.q4.pdb
+D:\1yr 3sem\c# labsheet1\labsheet1.q4\labsheet1.q4\obj\Debug\labsheet1.q4.csproj.AssemblyReference.cache
+D:\1yr 3sem\c# labsheet1\labsheet1.q4\labsheet1.q4\obj\Debug\labsheet1.q4.csproj.CoreCompileInputs.cache
+D:\1yr 3sem\c# labsheet1\labsheet1.q4\labsheet1.q4\obj\Debug\labsheet1.q4.exe
+D:\1yr 3sem\c# labsheet1\labsheet1.q4\labsheet1.q4\obj\Debug\labsheet1.q4.pdb
