@@ -1,0 +1,10 @@
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\obj\Debug\labsheet4.q1.csproj.AssemblyReference.cache
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\obj\Debug\labsheet4.q1.Form1.resources
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\obj\Debug\labsheet4.q1.Properties.Resources.resources
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\obj\Debug\labsheet4.q1.csproj.GenerateResource.cache
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\obj\Debug\labsheet4.q1.csproj.CoreCompileInputs.cache
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\bin\Debug\labsheet4.q1.exe.config
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\bin\Debug\labsheet4.q1.exe
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\bin\Debug\labsheet4.q1.pdb
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\obj\Debug\labsheet4.q1.exe
+D:\1yr 3sem\c# labsheet4\labsheet4.q1\labsheet4.q1\obj\Debug\labsheet4.q1.pdb

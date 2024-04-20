@@ -1,0 +1,5 @@
+D:\1yr 3sem\c# labsheet4\labsheet4q2\labsheet4q2\obj\Debug\labsheet4q2.csproj.AssemblyReference.cache
+D:\1yr 3sem\c# labsheet4\labsheet4q2\labsheet4q2\obj\Debug\Form1.resources
+D:\1yr 3sem\c# labsheet4\labsheet4q2\labsheet4q2\obj\Debug\labsheet4q2.Properties.Resources.resources
+D:\1yr 3sem\c# labsheet4\labsheet4q2\labsheet4q2\obj\Debug\labsheet4q2.csproj.GenerateResource.cache
+D:\1yr 3sem\c# labsheet4\labsheet4q2\labsheet4q2\obj\Debug\labsheet4q2.csproj.CoreCompileInputs.cache
